@@ -9,7 +9,7 @@ const App = () =>
 {
 	return (
 		<div className='app-wrapper'>
-			<Header />
+			<Headerfdf />
 			<Navbar />
 			<Profile />
 		</div>
